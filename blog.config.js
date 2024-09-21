@@ -2,7 +2,7 @@ const BLOG = {
   title: 'NINGFEIYU',
   author: 'NF',
   email: ' ningfeiyu@gmail.com',
-  link: 'https://nobelium.vercel.app',
+  link: 'https://nobelium-xi-one.vercel.app',
   description: 'ningfeiyu blog.',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   timezone: 'Asia/Shanghai', // Your Notion posts' date will be interpreted as this timezone. See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
